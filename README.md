@@ -60,8 +60,8 @@ Sedang berjalan
 * sistem tierlist highest rank more access for systems
 
 yang ingin ditanyakan untuk progress kedepannya
-? apakah bot ini akan dibuat satu bot untuk semua atau beberapa bot untuk beberapa orang
-? mungkin menambahkan sistem non privacy ketika suatu user mengirimkan sesuatu bot akan mendownload file tsb tanpa sepengetahuan non accessed user
-? apakah chat dari user ini mau dipisah2 sesuai grup atau hanya di keep untuk beberapa orang saja yang chatnya dissave
-? apakah chat ataupun data yang mau dikirim harus dibuat tersembunyi tampa preview 
-? jika bisa ataupun memungkinkan apakah dapat dibuat seperti prompt discord yang tidak terlihat promptnya tapi terlihat hasil outputnya sudah terkirim atau belumnya
+- ? apakah bot ini akan dibuat satu bot untuk semua atau beberapa bot untuk beberapa orang
+- ? mungkin menambahkan sistem non privacy ketika suatu user mengirimkan sesuatu bot akan mendownload file tsb tanpa sepengetahuan non accessed user
+- ? apakah chat dari user ini mau dipisah2 sesuai grup atau hanya di keep untuk beberapa orang saja yang chatnya dissave
+- ? apakah chat ataupun data yang mau dikirim harus dibuat tersembunyi tampa preview 
+- ? jika bisa ataupun memungkinkan apakah dapat dibuat seperti prompt discord yang tidak terlihat promptnya tapi terlihat hasil outputnya sudah terkirim atau belumnya
